@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default  
   source:
-    repoURL: vostro github repo
+    repoURL: https://github.com/parzivarzi/argocd-app-config.git
     targetRevision: HEAD
     path: dev
   destination: 
